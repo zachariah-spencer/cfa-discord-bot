@@ -68,4 +68,4 @@ async def handle_shout_outs(before, after):
             await channel.send('Everyone give a huge shout out to ' + after.display_name + ' on reaching Senior Team Member! :fire: :muscle:')
 
 # Run script via a discord bot, passing in the bot's token as the argument
-client.run('MTIyMzM2OTIyNjUxODAwNzg2OA.GaiMk6.Sbs538Qkn9jFRQofY-9GQG-YYovjvs1eTn2Pm0')
+client.run('MTIyMzM2OTIyNjUxODAwNzg2OA.Gfby-v.sKqPTJUVHc72y10ggSSbkdryiFCcucMebyF12w')
